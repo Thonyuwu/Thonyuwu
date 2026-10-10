@@ -8,7 +8,7 @@
   <p><i>Uniendo el diseño visual con el código para crear experiencias increíbles.</i></p>
 
   <p>
-    <a href="mailto:tu-correo@ejemplo.com">
+    <a href="anthonycardenasmarin@gmail..com">
       <img src="https://img.shields.io/badge/Email-tu--correo%40ejemplo.com-A3E4D7?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
     </a>
     <a href="https://www.tiktok.com/@tu_usuario" target="_blank">
