@@ -3,7 +3,7 @@
   <!-- Encabezado con estética verde clara -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=73BDA8&height=200&section=header&text=¡Hola!%20Soy%20Anthony%20✨&fontSize=42&fontColor=ffffff&fontAlignY=35" width="100%" />
 
-  <h3>🎨 Diseñador Gráfico & 💻 Aprendiz de Desarrollo Web</h3>
+  <h3>🎨Estudiante de Diseñador Gráfico & 💻 Aprendiz de Desarrollo Web</h3>
 
   <p><i>Uniendo el diseño visual con el código para crear experiencias increíbles.</i></p>
 
