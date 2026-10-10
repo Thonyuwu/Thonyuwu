@@ -9,10 +9,10 @@
 
   <p>
     <a href="anthonycardenasmarin@gmail..com">
-      <img src="https://img.shields.io/badge/Email-tu--correo%40ejemplo.com-A3E4D7?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+      <img src="https://img.shields.io/badge/anthonycardenas@gmail.com-A3E4D7?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
     </a>
-    <a href="https://www.tiktok.com/@tu_usuario" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-@tu__usuario-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <a href="https://www.tiktok.com target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-@/@thony23trucos?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
     </a>
   </p>
 
